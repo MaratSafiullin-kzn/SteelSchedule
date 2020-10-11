@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application SteelSchedule</Name>
+    <Assembly>SteelSchedule.dll</Assembly>
+    <FullClassName>SteelSchedule.App</FullClassName>
+    <ClientId>e1204a8f-386b-4f8e-b2cf-6a0bd15a3900</ClientId>
+    <VendorId>ru.gap-rt</VendorId>
+    <VendorDescription>АО Казанский ГИПРОНИИАВИАПРОМ, http://gap-rt.ru</VendorDescription>
+  </AddIn>
+</RevitAddIns>
